@@ -1,2 +1,7 @@
+// Create a basic function
 
-// Write something
+function greet () {
+  console.log('Hello Instructor')
+}
+
+greet()
